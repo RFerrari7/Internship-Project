@@ -1,6 +1,6 @@
 # Internship Project 
 
-This repository contains a project developed as part of the internship carried out between february and may 2025 at the University of Milano Bicocca ([Master's degree in Data Science](https://www.unimib.it/graduate/data-science)).
+This repository contains a project developed as part of an internship carried out between february and may 2025 at the University of Milano Bicocca ([Master's degree in Data Science](https://www.unimib.it/graduate/data-science)).
 
 ## Description 
 The purpose of this work was to conduct an initial qualitative market analysis through competitor observation and to develop consistent evaluation metrics to support a marketing strategy, with a view to the potential creation of an e-commerce activity in the roller sports sector. The reference point for the definition and categorization of roller sports, as well as for the related equipment, was the official website of the [Italian Roller Sports Federation](fisr.it).
